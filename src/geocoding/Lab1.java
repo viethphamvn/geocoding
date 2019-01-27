@@ -18,7 +18,7 @@ public class Lab1 {
      */
     public static void main(String[] args) throws IOException {
         String input = "1208 Frankford Ave, Philadelphia, PA 19125";
-        System.out.print("Showing Long & Lat of 1208 Frankford Ave, Philadelphia, PA 19125...");
+        System.out.println("Showing Long & Lat of 1208 Frankford Ave, Philadelphia, PA 19125...");
         
         Scanner s = new Scanner(System.in);
        
